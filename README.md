@@ -131,14 +131,6 @@ This ensures the printed output looks identical to the screen version unless exp
 
 ---
 
-## ❌ Limitations
-
-* Cannot auto-select printer or PDF
-* Cannot control print preview UI
-* Uses browser-native print dialog
-
----
-
 ## 📄 License
 
 MIT License
